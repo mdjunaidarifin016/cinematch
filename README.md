@@ -37,7 +37,7 @@ CineMatch/
 2. Clone this repository:
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/mdjunaidarifin016/cinematch.git
    ```
 
 3. Navigate to the project directory:
