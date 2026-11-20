@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Murder Mubarak",
+        "genre": "Crime/Thriller",
+        "rating": 5.8,
+        "year": 2024
+    },
+    {
+        "title": "Mirzapur",
+        "genre": "Gangster/Thriller",
+        "rating": 7.2,
+        "year": 2026
+    },
+    {
+        "title": "Madgaon Express",
+        "genre": "Comedy/Drama",
+        "rating": 7,
+        "year": 2024
+    },
+    {
+        "title": "Parivarik ManuRanjan",
+        "genre": "romantic comedy",
+        "rating": 6.7,
+        "year": 2026
+    },
+    {
+        "title": "Stree",
+        "genre": "Horror/Comedy",
+        "rating": 7.5,
+        "year": 2018
+    },
+    {
+        "title": "Chader pahar",
+        "genre": "adventure",
+        "rating": 7.2,
+        "year": 2013
+    },
+    {
+        "title": "Batman",
+        "genre": "Action",
+        "rating": 7.0,
+        "year": 2022
+    },
+    {
+        "title": "Batman",
+        "genre": "Action",
+        "rating": 8.0,
+        "year": 2022
+    }
+]
